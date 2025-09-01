@@ -5,6 +5,8 @@
 ## 1. Overview
 This project involves the development of a low-power, portable intelligent edge device for the real-time, on-device detection and classification of cardiac arrhythmias using lightweight deep learning models. By performing all computation locally, this system aims to solve the critical issues of latency and data privacy inherent in cloud-based solutions, offering an autonomous and scalable tool for continuous cardiac monitoring.
 
+For a formal, academic summary of this project, please see the **[ABSTRACT.md](ABSTRACT.md)** file.
+
 ## 2. Problem Statement & Research Gap
 Cardiovascular diseases are a leading cause of death globally, and many related arrhythmias occur unpredictably, necessitating continuous monitoring for early diagnosis. While medical-grade ECG patches exist, they often rely on cloud processing ("capture now, analyze later"), which introduces latency and privacy concerns. Conversely, consumer smartwatches are economical but typically limited to detecting only a narrow class of arrhythmias, like Atrial Fibrillation.
 
